@@ -8,7 +8,7 @@ A responsive calculator project created using HTML, CSS, and JavaScript. Support
 ---
 
 * Screenshot 
-![Calculator Image] (./screenshot.png)
+![Calculator Image](./screenshot.png)
 
 * ✨ Features
 - Clean & responsive UI
